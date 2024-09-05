@@ -48,7 +48,7 @@ To set up the project locally, follow these steps:
 <ul>
   
 <li>Clone the repository:
-git clone https://github.com/yourusername/multi-disease-prediction.git</li>
+git clone https://github.com/RabailFiaz/multi-disease-prediction.git</li>
 
 <li>Navigate to the project directory:
 cd multi-disease-prediction</li>
